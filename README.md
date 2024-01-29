@@ -1,5 +1,5 @@
 # Note 
-There are three projects are posted description is mentioned in this repository
+There are three projects posted in this repository detailed description is given below
 # Project
 - **Project Name:** Programming Employment Prediction
 - **Description:** This project addresses the classification problem of predicting programming employment using machine learning algorithms and techniques.
