@@ -35,3 +35,15 @@ There are three projects posted in this repository detailed description is given
   - Use of Roboflow
   - Importance of Accurate Annotation
 
+
+
+
+- **Project Name:** Neural Network Implementation on MNIST Dataset
+- **Overview:** This project aims to implement a neural network for digit recognition using the MNIST dataset, a standard dataset in computer vision. The neural network is trained to classify handwritten digits (0 to 9) with high accuracy.
+- **Project Components:**
+  - Dataset: MNIST dataset with labeled handwritten digit images.
+  - Neural Network Implementation: Description of the architecture, layers, and activation functions.
+  - Training: Details about the training process, optimization techniques, and parameter adjustments.
+  - Evaluation: Metrics used to assess the performance of the trained neural network.
+
+
