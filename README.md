@@ -1,1 +1,18 @@
 # Project
+- **Project Name:** Programming Employment Prediction
+- **Description:** This project addresses the classification problem of predicting programming employment using machine learning algorithms and techniques.
+- **Algorithms Used:**
+  - Decision Tree
+  - Naive Bayes
+  - SVM
+  - Logistic Regression
+- **Hyperparameter Tuning:**
+  - GridSearchCV
+  - RandomSearchCV
+- **Ensemble Techniques:**
+  - Gradient Boosting
+  - Random Forest Classifier
+- **Performance Metrics:**
+  - Confusion Matrix
+  - Recall
+  - F1 Score
