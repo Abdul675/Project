@@ -38,7 +38,7 @@ There are three projects posted in this repository detailed description is given
 
 
 
-- **Project Name:** Neural Network Implementation on MNIST Dataset
+- **Project Name:** Hand Written Digit Recognition using MNIST Dataset
 - **Overview:** This project aims to implement a neural network for digit recognition using the MNIST dataset, a standard dataset in computer vision. The neural network is trained to classify handwritten digits (0 to 9) with high accuracy.
 - **Project Components:**
   - Dataset: MNIST dataset with labeled handwritten digit images.
