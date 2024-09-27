@@ -38,12 +38,15 @@ There are three projects posted in this repository detailed description is given
 
 
 
-- **Project Name:** Hand Written Digit Recognition using MNIST Dataset
-- **Overview:** This project aims to implement a neural network for digit recognition using the MNIST dataset, a standard dataset in computer vision. The neural network is trained to classify handwritten digits (0 to 9) with high accuracy.
-- **Project Components:**
-  - Dataset: MNIST dataset with labeled handwritten digit images.
-  - Neural Network Implementation: Description of the architecture, layers, and activation functions.
-  - Training: Details about the training process, optimization techniques, and parameter adjustments.
-  - Evaluation: Metrics used to assess the performance of the trained neural network.
+- **Project Name:** Cutomer service Chatbot of Resturant
+- **Project Description:**
+The project is an Order-Taking Chatbot powered by Retrieval-Augmented Generation (RAG). The chatbot integrates a knowledge base to assist in taking customer orders efficiently, providing real-time responses using a combination of retrieval and generation techniques. RAG enables the chatbot to retrieve relevant information such as product details, pricing, and availability from external documents and databases, while generating natural and coherent responses to customer queries. This system is ideal for businesses that require quick, accurate, and automated customer interaction while ensuring up-to-date information is used in real-time conversations. The chatbot can be deployed across various platforms to streamline order processing.
+
+
+
+
+
+
+
 
 
